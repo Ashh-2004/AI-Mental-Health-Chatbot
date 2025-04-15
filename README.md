@@ -17,7 +17,7 @@ An empathetic, AI-powered mental health companion built using machine learning a
 
 ## 🧪 Datasets Used
 
-- [MentalHealth16k]([https://huggingface.co/datasets/ShenLab/MentalChat16K])
+- [MentalHealth16k](https://huggingface.co/datasets/ShenLab/MentalChat16K)
 - Reddit mental health dataset (custom preprocessed)
 - Augmented prompts for instruction-style fine-tuning
 
